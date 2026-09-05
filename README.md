@@ -3,6 +3,8 @@
 #### 介绍
 原有class widget 2 可编辑的内容较少，使用Deepseek V4 Flash开发插件，给时钟显示增加更多功能
 
+> <font color="red">该插件不再更新，所有插件功能已转移至“Kryon的更多设置”</font>
+
 #### 安装教程
 
 插件文件导入：
