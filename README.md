@@ -1,4 +1,17 @@
-# Class widget 2 时间组件
+<div align="center">
+
+<img src="icon.png" height="120" alt="时间组件">
+<h1>Class widget 2 时间组件</h1>
+
+[![版本](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-1.0.6-5A9BFF?style=for-the-badge)](https://github.com/Kryon2025/class-widget-2--time_component/releases)
+[![星标](https://img.shields.io/github/stars/Kryon2025/class-widget-2--time_component?style=for-the-badge&color=orange&label=%E6%98%9F%E6%A0%87)](https://github.com/Kryon2025/class-widget-2--time_component)
+[![开源许可](https://img.shields.io/github/license/Kryon2025/class-widget-2--time_component?style=for-the-badge&label=%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF%E8%AF%81)](https://github.com/Kryon2025/class-widget-2--time_component/blob/main/LICENSE)
+[![下载量](https://img.shields.io/github/downloads/Kryon2025/class-widget-2--time_component/total.svg?label=%E4%B8%8B%E8%BD%BD%E9%87%8F&color=green&style=for-the-badge)](https://github.com/Kryon2025/class-widget-2--time_component/releases)
+
+</div>
+
+> [!NOTE]
+> 当前版本 **1.0.6**，要求 Class Widgets 2 的插件 API `~=0.6.0`。
 
 #### 介绍
 原有class widget 2 可编辑的内容较少，使用Deepseek V4 Flash开发插件，给时钟显示增加更多功能
